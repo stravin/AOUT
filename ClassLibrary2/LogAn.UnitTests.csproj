@@ -7,8 +7,8 @@
     <ProjectGuid>{D45F6791-8A7A-4BB7-B362-D75F9E62DC16}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>ClassLibrary2</RootNamespace>
-    <AssemblyName>ClassLibrary2</AssemblyName>
+    <RootNamespace>LogAn.UnitTests</RootNamespace>
+    <AssemblyName>LogAn.UnitTests</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
