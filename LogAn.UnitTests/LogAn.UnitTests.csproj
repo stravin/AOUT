@@ -48,7 +48,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\ConsoleApplication1\LogAn.csproj">
+    <ProjectReference Include="..\LogAn\LogAn.csproj">
       <Project>{1229085c-8709-453e-91bd-bca4a58de774}</Project>
       <Name>LogAn</Name>
     </ProjectReference>
